@@ -1,1 +1,1 @@
-![image](https://github.com/WalkieJVC/WalkieJVC/blob/main/Images/TestImage.png)
+![image](https://github.com/WalkieJVC/WalkieJVC/blob/main/Images/Banner.png)
