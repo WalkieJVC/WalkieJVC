@@ -2,4 +2,4 @@
 
 ## About Me
 
-I am a software developer with a passion for problem solving and creating new tools and applications. You can expect to find projects such as a music player, garage parking system and very soon video games! I aspire to have full stack projects with beutiful front-end visuals and efficient back-end business logic and database structures.
+Hello! I'm Juan, a recent software engineering graduate from the College of Southern Nevada. Proficient in Java and well-versed in Object-Oriented Programming, I'm eager to leverage my skills to contribute meaningfully to software development projects. I have hands-on experience with tools like Android Studio and Spring Boot. I am also proficient with Java and C# and I'm committed to continuous learning to further refine my abilities as a software engineer.
