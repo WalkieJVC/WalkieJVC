@@ -1,4 +1,4 @@
-![image](https://github.com/WalkieJVC/WalkieJVC/blob/main/Images/Banner.png)
+![image](https://github.com/WalkieJVC/WalkieJVC/blob/main/Images/ProfileBanner.png)
 
 ## About Me
 
